@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-test1-automation-practice
 test
 +test2
@@ -22,3 +23,7 @@ This repository contains a basic setup for Cypress automation testing.
 
 * [Git Workflow Strategy](/docs/git-strategy.md)
 * [Essential Hotkeys](/docs/hotkeys.md)
+=======
+# cypress-automation-practice-personal
+practice-personal account
+>>>>>>> 6feeeb52c9598714a86f37d85ae47ef5108a982c
